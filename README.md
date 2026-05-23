@@ -1,6 +1,6 @@
 # mt5-execution-analyzer
 
-A zero-dependency Python script that recursively scans MetaTrader 5 terminal log folders, extracts all `at market done in X ms` trade execution entries, and produces three structured plain-text reports covering execution time statistics broken down by terminal, account, and symbol.
+A zero dependency Python script that recursively scans MetaTrader 5 terminal log folders, extracts all `at market done in X ms` trade execution entries, and produces three structured plain text reports covering execution time statistics broken down by terminal, account, and symbol.
 
 ---
 
